@@ -1,0 +1,543 @@
+TCJBRisk
+v7
+r0
+t412871745.597301
+cCheck dependencies
+cProcessInfoPlistFile /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Info.plist CJBRisk/CJBRisk-Info.plist
+cProcessPCH /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch.pth CJBRisk/CJBRisk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/main.o /Users/Brady/Desktop/CJBRisk/CJBRisk/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/AppDelegate.o /Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/ViewController.o /Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/World.o /Users/Brady/Desktop/CJBRisk/CJBRisk/World.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/Country.o /Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk normal i386
+cCopyStringsFile /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj/InfoPlist.strings CJBRisk/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/ViewController.xib
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/five.png CJBRisk/five.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/four.png CJBRisk/four.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/one.png CJBRisk/one.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/six.png CJBRisk/six.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/three.png CJBRisk/three.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/two.png CJBRisk/two.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/riskMap.jpg CJBRisk/riskMap.jpg
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/riskMap.png CJBRisk/riskMap.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/Default.jpg CJBRisk/Default.jpg
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/Default.png CJBRisk/Default.png
+cCpResource build/Debug-iphonesimulator/CJBRisk.app/Default-Landscape.png CJBRisk/Default-Landscape.png
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/time.h
+c000000004CB3E486000000000000178E
+t1286857862
+s6030
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.h
+c0000000052EBB46200000000000001B4
+t1391178850
+s436
+i<UIKit/UIKit.h>
+i"World.h"
+i"Country.h"
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m
+c0000000050BFCFB100000000000009B5
+t1354747825
+s2485
+i"AppDelegate.h"
+i"ViewController.h"
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/CJBRisk-Prefix.pch
+c0000000050BAA71D000000000000013D
+t1354409757
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/Country.h
+c0000000050BFCF77000000000000039B
+t1354747767
+s923
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m
+c0000000050C013410000000000000A9E
+t1354765121
+s2718
+i"Country.h"
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/Default-Landscape.png
+c0000000050BD8DE20000000000109906
+t1354599906
+s1087750
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/Default.jpg
+c0000000050BD8A0D0000000000015BC0
+t1354598925
+s89024
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/Default.png
+c0000000050BD8DE20000000000109906
+t1354599906
+s1087750
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.h
+c0000000052EBB4810000000000000ADF
+t1391178881
+s2783
+i<UIKit/UIKit.h>
+i"World.h"
+i"Country.h"
+i<time.h>
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m
+c0000000050C0FA3C000000000000D249
+t1354824252
+s53833
+i"ViewController.h"
+i<time.h>
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/World.h
+c0000000050BFCDAF000000000000043D
+t1354747311
+s1085
+i<Foundation/Foundation.h>
+i"Country.h"
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/World.m
+c0000000050C013680000000000002FBE
+t1354765160
+s12222
+i"World.h"
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/InfoPlist.strings
+c0000000050BAA71D000000000000002D
+t1354409757
+s45
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/ViewController.xib
+c0000000050C0162100000000000069E8
+t1354765857
+s27112
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/five.png
+c000000004D715F1A0000000000001688
+t1299275546
+s5768
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/four.png
+c000000004D715F2200000000000012FA
+t1299275554
+s4858
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/main.m
+c0000000052EBB49900000000000000E4
+t1391178905
+s228
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/one.png
+c000000004D715F2600000000000009DE
+t1299275558
+s2526
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/riskMap.jpg
+c0000000050A2C336000000000000CAD7
+t1352844086
+s51927
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/riskMap.png
+c0000000050BD6D39000000000005AE85
+t1354591545
+s372357
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/six.png
+c000000004D715F3100000000000017D7
+t1299275569
+s6103
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/three.png
+c000000004D715F350000000000001121
+t1299275573
+s4385
+
+N/Users/Brady/Desktop/CJBRisk/CJBRisk/two.png
+c000000004D715F3A0000000000000DA3
+t1299275578
+s3491
+
+N/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/AppDelegate.o
+t1391178944
+s47504
+
+N/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/CJBRisk.LinkFileList
+c0000000052EBB4C00000000000000245
+t1391178944
+s581
+
+N/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/Country.o
+t1391178944
+s16204
+
+N/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/ViewController.o
+t1391178945
+s180004
+
+N/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/World.o
+t1391178944
+s58732
+
+N/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/main.o
+t1391178944
+s2032
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app
+t2
+s0
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app.dSYM
+t2
+s0
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk
+t2
+s0
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Default-Landscape.png
+t1391178945
+s1087750
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Default.jpg
+t1391178945
+s89024
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Default.png
+t1391178945
+s1087750
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Info.plist
+t1391178944
+s888
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/PkgInfo
+t1391178944
+s8
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj/InfoPlist.strings
+t1391178945
+s42
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj/ViewController.nib
+t1391178945
+s6302
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/five.png
+t1391178945
+s5768
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/four.png
+t1391178945
+s4858
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/one.png
+t1391178945
+s2526
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/riskMap.jpg
+t1391178945
+s51927
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/riskMap.png
+t1391178945
+s372357
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/six.png
+t1391178945
+s6103
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/three.png
+t1391178945
+s4385
+
+N/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/two.png
+t1391178945
+s3491
+
+N/var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch.pth
+t1391178944
+s2781040
+
+NCJBRisk/CJBRisk-Info.plist
+c0000000050BD8D0A0000000000000551
+t1354599690
+s1361
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies412871744#412871744#0(0"0(0#1#0"4458575168#0"0#
+
+CCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/AppDelegate.o /Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412871744.755664
+e412871744.855319
+r1
+xCompileC
+xbuild/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/AppDelegate.o
+x/Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@58"Compile /Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m412871744#412871744#0(0"0(0#0#50"/Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m4458573456#1895"    cd /Users/Brady/Desktop/CJBRisk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-generated-files.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-own-target-headers.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-all-target-headers.hmap -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-project-headers.hmap -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -I/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/include -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources/i386 -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources -include /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch -c /Users/Brady/Desktop/CJBRisk/CJBRisk/AppDelegate.m -o /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/Country.o /Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412871744.794290
+e412871744.851662
+r1
+xCompileC
+xbuild/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/Country.o
+x/Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@54"Compile /Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m412871744#412871744#0(0"0(0#0#46"/Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m4458573456#1887"    cd /Users/Brady/Desktop/CJBRisk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-generated-files.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-own-target-headers.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-all-target-headers.hmap -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-project-headers.hmap -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -I/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/include -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources/i386 -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources -include /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch -c /Users/Brady/Desktop/CJBRisk/CJBRisk/Country.m -o /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/Country.o0#
+
+CCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/ViewController.o /Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412871744.756425
+e412871745.020457
+r1
+xCompileC
+xbuild/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/ViewController.o
+x/Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@61"Compile /Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m412871744#412871745#0(0"0(0#0#53"/Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m4458573456#1901"    cd /Users/Brady/Desktop/CJBRisk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-generated-files.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-own-target-headers.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-all-target-headers.hmap -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-project-headers.hmap -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -I/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/include -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources/i386 -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources -include /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch -c /Users/Brady/Desktop/CJBRisk/CJBRisk/ViewController.m -o /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/ViewController.o0#
+
+CCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/World.o /Users/Brady/Desktop/CJBRisk/CJBRisk/World.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412871744.757372
+e412871744.879501
+r1
+xCompileC
+xbuild/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/World.o
+x/Users/Brady/Desktop/CJBRisk/CJBRisk/World.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@52"Compile /Users/Brady/Desktop/CJBRisk/CJBRisk/World.m412871744#412871744#0(0"0(0#0#44"/Users/Brady/Desktop/CJBRisk/CJBRisk/World.m4458573456#1883"    cd /Users/Brady/Desktop/CJBRisk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-generated-files.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-own-target-headers.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-all-target-headers.hmap -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-project-headers.hmap -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -I/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/include -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources/i386 -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources -include /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch -c /Users/Brady/Desktop/CJBRisk/CJBRisk/World.m -o /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/World.o0#
+
+CCompileC build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/main.o /Users/Brady/Desktop/CJBRisk/CJBRisk/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412871744.754634
+e412871744.794137
+r1
+xCompileC
+xbuild/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/main.o
+x/Users/Brady/Desktop/CJBRisk/CJBRisk/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@51"Compile /Users/Brady/Desktop/CJBRisk/CJBRisk/main.m412871744#412871744#0(0"0(0#0#43"/Users/Brady/Desktop/CJBRisk/CJBRisk/main.m4458573456#1881"    cd /Users/Brady/Desktop/CJBRisk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-generated-files.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-own-target-headers.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-all-target-headers.hmap -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-project-headers.hmap -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -I/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/include -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources/i386 -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources -include /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch -c /Users/Brady/Desktop/CJBRisk/CJBRisk/main.m -o /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/ViewController.xib
+s412871745.031374
+e412871745.597069
+r1
+xCompileXIB
+x/Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/ViewController.xib
+o2014-01-31 08:35:45.243 ibtool[1036:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@46"CompileXIB CJBRisk/en.lproj/ViewController.xib412871745#412871745#0(436"2014-01-31 08:35:45.243 ibtool[1036:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#64"/Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/ViewController.xib4458573456#598"    cd /Users/Brady/Desktop/CJBRisk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj/ViewController.nib /Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/ViewController.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj/InfoPlist.strings CJBRisk/en.lproj/InfoPlist.strings
+s412871745.030526
+e412871745.130529
+r1
+xCopyStringsFile
+x/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj/InfoPlist.strings
+xCJBRisk/en.lproj/InfoPlist.strings
+lSLF07#2@39"Copy CJBRisk/en.lproj/InfoPlist.strings412871745#412871745#0(0"0(0#0#63"/Users/Brady/Desktop/CJBRisk/CJBRisk/en.lproj/InfoPlist.strings4458573456#489"    cd /Users/Brady/Desktop/CJBRisk    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary CJBRisk/en.lproj/InfoPlist.strings --outdir /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/Default-Landscape.png CJBRisk/Default-Landscape.png
+s412871745.053918
+e412871745.091676
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/Default-Landscape.png
+xCJBRisk/Default-Landscape.png
+lSLF07#2@34"Copy CJBRisk/Default-Landscape.png412871745#412871745#0(0"0(0#0#58"/Users/Brady/Desktop/CJBRisk/CJBRisk/Default-Landscape.png4458573456#475"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/Default-Landscape.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/Default.jpg CJBRisk/Default.jpg
+s412871745.044950
+e412871745.076010
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/Default.jpg
+xCJBRisk/Default.jpg
+lSLF07#2@24"Copy CJBRisk/Default.jpg412871745#412871745#0(0"0(0#0#48"/Users/Brady/Desktop/CJBRisk/CJBRisk/Default.jpg4458573456#465"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/Default.jpg /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/Default.png CJBRisk/Default.png
+s412871745.051484
+e412871745.078881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/Default.png
+xCJBRisk/Default.png
+lSLF07#2@24"Copy CJBRisk/Default.png412871745#412871745#0(0"0(0#0#48"/Users/Brady/Desktop/CJBRisk/CJBRisk/Default.png4458573456#465"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/Default.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/five.png CJBRisk/five.png
+s412871745.031900
+e412871745.044826
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/five.png
+xCJBRisk/five.png
+lSLF07#2@21"Copy CJBRisk/five.png412871745#412871745#0(0"0(0#0#45"/Users/Brady/Desktop/CJBRisk/CJBRisk/five.png4458573456#462"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/five.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/four.png CJBRisk/four.png
+s412871745.032612
+e412871745.051351
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/four.png
+xCJBRisk/four.png
+lSLF07#2@21"Copy CJBRisk/four.png412871745#412871745#0(0"0(0#0#45"/Users/Brady/Desktop/CJBRisk/CJBRisk/four.png4458573456#462"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/four.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/one.png CJBRisk/one.png
+s412871745.033422
+e412871745.059495
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/one.png
+xCJBRisk/one.png
+lSLF07#2@20"Copy CJBRisk/one.png412871745#412871745#0(0"0(0#0#44"/Users/Brady/Desktop/CJBRisk/CJBRisk/one.png4458573456#461"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/one.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/riskMap.jpg CJBRisk/riskMap.jpg
+s412871745.040109
+e412871745.077608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/riskMap.jpg
+xCJBRisk/riskMap.jpg
+lSLF07#2@24"Copy CJBRisk/riskMap.jpg412871745#412871745#0(0"0(0#0#48"/Users/Brady/Desktop/CJBRisk/CJBRisk/riskMap.jpg4458573456#465"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/riskMap.jpg /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/riskMap.png CJBRisk/riskMap.png
+s412871745.042215
+e412871745.080573
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/riskMap.png
+xCJBRisk/riskMap.png
+lSLF07#2@24"Copy CJBRisk/riskMap.png412871745#412871745#0(0"0(0#0#48"/Users/Brady/Desktop/CJBRisk/CJBRisk/riskMap.png4458573456#465"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/riskMap.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/six.png CJBRisk/six.png
+s412871745.034556
+e412871745.053792
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/six.png
+xCJBRisk/six.png
+lSLF07#2@20"Copy CJBRisk/six.png412871745#412871745#0(0"0(0#0#44"/Users/Brady/Desktop/CJBRisk/CJBRisk/six.png4458573456#461"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/six.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/three.png CJBRisk/three.png
+s412871745.035960
+e412871745.056328
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/three.png
+xCJBRisk/three.png
+lSLF07#2@22"Copy CJBRisk/three.png412871745#412871745#0(0"0(0#0#46"/Users/Brady/Desktop/CJBRisk/CJBRisk/three.png4458573456#463"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/three.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CCpResource build/Debug-iphonesimulator/CJBRisk.app/two.png CJBRisk/two.png
+s412871745.038061
+e412871745.073735
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CJBRisk.app/two.png
+xCJBRisk/two.png
+lSLF07#2@20"Copy CJBRisk/two.png412871745#412871745#0(0"0(0#0#44"/Users/Brady/Desktop/CJBRisk/CJBRisk/two.png4458573456#461"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/CJBRisk/CJBRisk/two.png /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app0#
+
+CGenerateDSYMFile /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app.dSYM /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk
+r0
+
+CLd /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk normal i386
+s412871745.020550
+e412871745.030385
+r0
+xLd
+x/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk
+xnormal
+xi386
+old: warning: directory '/usr/lib/i686-apple-darwin11/4.2.1' following -L not found
+old: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1' following -L not found
+old: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1' following -L not found
+old: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1/../../../i686-apple-darwin11/4.2.1' following -L not found
+old: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1/../../..' following -L not found
+old: library not found for -lgcc
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF07#2@81"Link /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk412871745#412871745#0(695"ld: warning: directory '/usr/lib/i686-apple-darwin11/4.2.1' following -L not foundld: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1' following -L not foundld: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1' following -L not foundld: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1/../../../i686-apple-darwin11/4.2.1' following -L not foundld: warning: directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1/../../..' following -L not foundld: library not found for -lgccclang: error: linker command failed with exit code 1 (use -v to see invocation)Command /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang failed with exit code 17(22@69"Directory '/usr/lib/i686-apple-darwin11/4.2.1' following -L not found412871745#0#83#0(6@0"412871745#0#0#0#0#0"0(22@73"Directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1' following -L not found412871745#83#87#0(6@0"412871745#0#0#0#0#0"0(22@73"Directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1' following -L not found412871745#170#87#0(6@0"412871745#0#0#0#0#0"0(22@108"Directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1/../../../i686-apple-darwin11/4.2.1' following -L not found412871745#257#122#0(6@0"412871745#0#0#0#0#0"0(22@82"Directory '/usr/lib/gcc/i686-apple-darwin11/4.2.1/../../..' following -L not found412871745#379#96#0(6@0"412871745#0#0#0#0#0"0(13@27"Library not found for -lgcc412871745#475#32#0(6@0"412871745#0#0#0#0#0"0(4@107"Command /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang failed with exit code 1412871745#18446744073709551615#0#0(1@0"0(0#0#0"4458573456#881"    cd /Users/Brady/Desktop/CJBRisk    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -filelist /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/Objects-normal/i386/CJBRisk.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/CJBRisk1#
+
+CProcessInfoPlistFile /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Info.plist CJBRisk/CJBRisk-Info.plist
+s412871744.574577
+e412871744.577994
+r1
+xProcessInfoPlistFile
+x/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Info.plist
+xCJBRisk/CJBRisk-Info.plist
+lSLF07#2@34"Process CJBRisk/CJBRisk-Info.plist412871744#412871744#0(0"0(0#0#55"/Users/Brady/Desktop/CJBRisk/CJBRisk/CJBRisk-Info.plist4458573568#469"    cd /Users/Brady/Desktop/CJBRisk    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CJBRisk/CJBRisk-Info.plist -genpkginfo /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app/Info.plist0#
+
+CProcessPCH /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch.pth CJBRisk/CJBRisk-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412871744.578122
+e412871744.754532
+r1
+xProcessPCH
+x/var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch.pth
+xCJBRisk/CJBRisk-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@37"Precompile CJBRisk/CJBRisk-Prefix.pch412871744#412871744#0(0"0(0#0#55"/Users/Brady/Desktop/CJBRisk/CJBRisk/CJBRisk-Prefix.pch4458573456#1783"    cd /Users/Brady/Desktop/CJBRisk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-generated-files.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-own-target-headers.hmap -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-all-target-headers.hmap -iquote /Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/CJBRisk-project-headers.hmap -F/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator -I/Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/include -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources/i386 -I/Users/Brady/Desktop/CJBRisk/build/CJBRisk.build/Debug-iphonesimulator/CJBRisk.build/DerivedSources -c /Users/Brady/Desktop/CJBRisk/CJBRisk/CJBRisk-Prefix.pch -o /var/folders/zq/t02dsg9d6jg112w3w2zcxn6h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CJBRisk-Prefix-hhuxxopfuioufednqrfyrfbsvndi/CJBRisk-Prefix.pch.pth0#
+
+CTouch /Users/Brady/Desktop/CJBRisk/build/Debug-iphonesimulator/CJBRisk.app
+r0
+
